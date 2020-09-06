@@ -55,9 +55,9 @@ def plot_spikes(spikes, view=False, filename=None, title=None):
     plt.plot(t_values, v_values, "g-")
 
     if title is None:
-        plt.title("Izhikevich's spiking neuron model")
+        plt.title("Vexvain's spiking neuron model")
     else:
-        plt.title("Izhikevich's spiking neuron model ({0!s})".format(title))
+        plt.title("Vexvain's spiking neuron model ({0!s})".format(title))
 
     plt.subplot(4, 1, 2)
     plt.ylabel("Fired")
