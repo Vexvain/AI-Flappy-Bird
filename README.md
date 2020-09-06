@@ -12,8 +12,4 @@ An AI that plays Flappy Bird by using the NEAT python module
 # Instructions
 Run **```flappybird.py```**
 
-# Gitpod
-
-You can also run this in Gitpod
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Vexvain/AI-Flappy-Bird/blob/master/flappybird.py)
+# Enjoy!
