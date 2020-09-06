@@ -399,7 +399,7 @@ def eval_genomes(genomes, config):
 
         # break if score gets large enough
         '''if score > 20:
-            pickle.dump(nets[0],open("best.pickle", "wb"))
+            pickle.dump(nets[0],open("flap.pickle", "wb"))
             break'''
 
 
